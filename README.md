@@ -1,0 +1,2 @@
+# shutdwn
+Close all apps
